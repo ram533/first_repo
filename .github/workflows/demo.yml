@@ -1,6 +1,6 @@
 # .github/workflows/demo.yml
 
-name: CI
+name: CI-DEMO
 on:
     push:
         branches: ["main"]
